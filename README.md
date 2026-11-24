@@ -14,6 +14,10 @@ I’m looking for new-grad opportunities in **software engineering, applied AI, 
 
 Each repository includes setup instructions and implementation details. These are personal projects; their READMEs describe current features and limitations.
 
+## Coursework
+
+My [coursework portfolio](https://github.com/WCopelandProg/coursework-portfolio) covers C++ data structures, memory management, testing, regression, numerical optimization, and clustering. It includes project summaries and technical discussion, with pair-programming credit. Course solutions remain private.
+
 ## Data and AI experience
 
 - **CANA data science internship:** Worked with public federal spending and economic datasets to study supplier concentration and changes in the defense industrial base. Built Python analysis workflows and communicated findings to the team.
