@@ -27,9 +27,9 @@ You can also browse my [coursework portfolio](https://github.com/WCopelandProg/c
 
 ## Tools I work with
 
-**Data and modeling:** Python, SQL, R, pandas, NumPy, Matplotlib, scikit-learn, Jupyter
+**Data and modeling:** Python, SQL, R, pandas, NumPy, Matplotlib, Jupyter
 
-**Software:** TypeScript, React, Node.js, C++, Git, PostgreSQL
+**Software:** TypeScript, React, Node.js, C++, Git
 
 My coursework includes database systems, algorithms, statistics, and the mathematics of machine learning.
 
