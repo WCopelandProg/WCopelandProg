@@ -2,7 +2,7 @@
 
 I’m Will. I study Computer Science + Mathematics at Harvey Mudd College, with a data science emphasis, and I graduate in May 2027. I build software and data tools. I like taking an idea and working through the details until people can use it.
 
-I’m looking for new-grad roles in **software engineering, applied AI, data science, and security**, especially in California and Washington.
+I’m looking for new grad roles in **software engineering, applied AI, data science, and security**, especially in California and Washington.
 
 ## Projects
 
